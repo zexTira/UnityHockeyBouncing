@@ -7,3 +7,4 @@ The video can be checked from website below:
 
 
 *Create a new project (Using 2D template) with corresponding unity version, then delete all assets and import all from the unitypackage.  
+The demo video can be found here: https://youtu.be/HXJwnfygHEc 
